@@ -4,5 +4,8 @@
   "react-native-gesture-handler": "latest",
   "react-navigation": "latest",
   "reactotron-react-native": "latest",
-  "styled-components": "latest"
+  "styled-components": "latest",
+  "redux": "latest",
+  "redux-thunk": "latest",
+  "react-redux": "latest"
 }

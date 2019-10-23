@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-gok-basic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Template para projetos em React Native, com Estrutura de Pastas customizada, Estilos Globais, ESLint + Prettier + Babel Plugin Root Import, React Navigation, Redux, Reactotron e Axios configurados.",
   "keywords": [
     "react-native",
