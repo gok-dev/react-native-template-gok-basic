@@ -97,8 +97,15 @@ gok-basic
 │   ├── services/
 │   │   └── api.js
 │   ├── index.js
-│   └── routes
-│       └── index.js
+│   ├── routes
+│   │    └── index.js
+│   └── store
+│       ├── main
+│       │   └── actions.js
+│       │   └── actionTypes.js
+│       │   └── reducer.js
+│       ├── index.js
+│       └── utility.js
 ├── .editorconfig
 ├── .eslintrc.json
 ├── .gitignore
