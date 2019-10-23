@@ -1,10 +1,10 @@
 <!-- PROJECT SHIELDS -->
 
-<!-- [![npm](https://img.shields.io/npm/v/react-native-template-rocketseat-basic.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-rocketseat-basic)
-[![npm](https://img.shields.io/npm/dt/react-native-template-rocketseat-basic.svg)](https://www.npmjs.com/package/react-native-template-rocketseat-basic)
-[![GitHub issues](https://img.shields.io/github/issues-raw/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/Rocketseat/react-native-template-rocketseat-basic/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/Rocketseat/react-native-template-rocketseat-basic/commits/master)
-[![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-basic.svg)](https://choosealicense.com/licenses/mit) -->
+[![npm](https://img.shields.io/npm/v/react-native-template-gok-basic.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-gok-basic)
+[![npm](https://img.shields.io/npm/dt/react-native-template-gok-basic.svg)](https://www.npmjs.com/package/react-native-template-gok-basic)
+[![GitHub issues](https://img.shields.io/github/issues-raw/gok-dev/react-native-template-gok-basic.svg)](https://github.com/gok-dev/react-native-template-gok-basic/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/gok-dev/react-native-template-gok-basic.svg)](https://github.com/gok-dev/react-native-template-gok-basic/commits/master)
+[![NPM](https://img.shields.io/npm/l/react-native-template-gok-basic.svg)](https://choosealicense.com/licenses/mit)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -27,7 +27,6 @@
   - [Pré-requisitos](#pr%C3%A9-requisitos)
   - [Estrutura de Arquivos](#estrutura-de-arquivos)
   - [Instalação](#instala%C3%A7%C3%A3o)
-    - [Passo Adicional no Android](#passo-adicional-no-android)
   - [Edição](#edi%C3%A7%C3%A3o)
   - [Publicação](#publica%C3%A7%C3%A3o)
 - [Contribuição](#contribui%C3%A7%C3%A3o)
