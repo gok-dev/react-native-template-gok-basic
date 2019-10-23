@@ -1,0 +1,22 @@
+{
+  "name": "react-native-template-gok-basic",
+  "version": "1.0.0",
+  "description": "Template para projetos em React Native, com Estrutura de Pastas customizada, Estilos Globais, ESLint + Prettier + Babel Plugin Root Import, React Navigation, Reactotron e Axios configurados.",
+  "keywords": [
+    "react-native",
+    "template",
+    "gok",
+    "eslint",
+    "react-navigation",
+    "reactotron",
+    "babel-root-import",
+    "axios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gok-dev/react-native-template-gok-basic.git"
+  },
+  "homepage": "https://github.com/gok-dev/react-native-template-gok-basic#readme",
+  "author": "Julio Augusto <julio.sousa@gok.digital>",
+  "license": "MIT"
+}
