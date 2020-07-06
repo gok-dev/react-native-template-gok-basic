@@ -5,6 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/gok-dev/react-native-template-gok-basic.svg)](https://github.com/gok-dev/react-native-template-gok-basic/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/gok-dev/react-native-template-gok-basic.svg)](https://github.com/gok-dev/react-native-template-gok-basic/commits/master)
 [![NPM](https://img.shields.io/npm/l/react-native-template-gok-basic.svg)](https://choosealicense.com/licenses/mit)
+[![Maintainability](https://api.codeclimate.com/v1/badges/8e02f294cb91173f208d/maintainability)](https://codeclimate.com/github/gok-dev/react-native-template-gok-basic/maintainability)
 
 <!-- PROJECT LOGO -->
 <br />
